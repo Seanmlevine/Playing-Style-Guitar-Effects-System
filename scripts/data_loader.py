@@ -2,7 +2,7 @@ import torch
 import numpy as np
 import h5py
 from torch.utils.data import Dataset, DataLoader
-from Paras import Para
+from Paras_nb import Para
 
 
 class TorchData(Dataset):

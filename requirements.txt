@@ -1,0 +1,10 @@
+h5py==2.10.0
+librosa==0.9.2
+matplotlib==3.5.2
+numpy==1.21.5
+PyAudio==0.2.11
+pydub==0.25.1
+python_osc==1.8.0
+scikit_learn==1.0.2
+SQLAlchemy==1.4.39
+torch==1.10.1
