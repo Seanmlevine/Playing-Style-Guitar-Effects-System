@@ -1,6 +1,8 @@
 # Playing Style-Based Guitar Effects System
  Automatic guitar effects system using Pytorch Deep Learning and Max MSP for Guitar Effects Handling
 
+<a href="https://github.com/Seanmlevine/Playing-Style-Guitar-Effects-System/blob/main/docs/Master_s_Final_Paper.pdf">Project report here.</a>
+
 
 ## Getting Started:
 ### Audio Files
@@ -58,6 +60,7 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
 </table>
 
 
+<img src='https://github.com/Seanmlevine/Playing-Style-Guitar-Effects-System/blob/main/docs/Levine_7100_Poster.pdf' width=500>
 
 
 
