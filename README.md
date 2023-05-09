@@ -60,7 +60,7 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
 </table>
 
 
-<img src='https://github.com/Seanmlevine/Playing-Style-Guitar-Effects-System/blob/main/docs/Levine_7100_Poster-compressed.pdf' width=500>
+<img src='./docs/Levine_7100_Poster-compressed.pdf' width=250>
 
 
 
