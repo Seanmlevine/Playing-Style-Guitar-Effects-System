@@ -4,6 +4,9 @@
 <a href="https://github.com/Seanmlevine/Playing-Style-Guitar-Effects-System/blob/main/docs/Master_s_Final_Paper.pdf">Project report here.</a>
 
 
+# Poster
+<img src='./docs/Levine_7100_Poster-compressed.png' width=750>
+
 ## Getting Started:
 ### Audio Files
 - The guitar files used are unprocessed guitar tracks from the IDMT-SMT Dataset (subset 4) or were made for this project following similar protocols
@@ -68,11 +71,6 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
 
 <img src='./Results/Result-April-2023-128/Acc_v_epoch_JohnAll.png' width=500>
 <img src='./Results/Result-April-2023-128/Loss_v_epoch_JohnAll.png' width=500>
-
-<img src='./docs/Levine_7100_Poster-compressed.png' width=500>
-
-
-
 
 
 # Thanks:
