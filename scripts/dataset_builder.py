@@ -1,5 +1,3 @@
-# %% [markdown]
-# Build training, validation and testing datasets
 
 import numpy as np
 import librosa

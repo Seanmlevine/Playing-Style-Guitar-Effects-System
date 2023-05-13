@@ -45,6 +45,7 @@ class ParaSetting:
         self.LA_VAL_DATA_PATH = '../datasets/l_valid.h5'
         self.LA_TEST_DATA_PATH = '../datasets/l_test.h5'
 
+        # For Guitar Dataset
         self.TEST_TRAIN_DATA_PATH = '../handmadeDBL_JohnAll_128/l_train.h5'
         self.TEST_VAL_DATA_PATH = '../handmadeDBL_JohnAll_128/l_valid.h5'
         self.TEST_TEST_DATA_PATH = '../handmadeDBL_JohnAll_128/l_test.h5'
