@@ -39,6 +39,11 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
 - Use **realtime_predict-recording.ipynb** to have use the continuous testing model in conjunction with the Max MSP model found in the **Max-Patch-Effects-System** folder
 - Test result saved in log fold
 
+# TL;DR
+- Open **gtr_osc.maxpat** in the **Max-Patch-Effects-System** folder
+- Connect audio (Guitar or other instrument)
+- Change the correct audio interface within **realtime_predict-recording.ipynb** to make sure python accesses the incoming audio
+- Run **realtime_predict-recording.ipynb** or **realtime_predict-recording.py** to have the effect values change based on the guitar input
 
 
 ## Results
