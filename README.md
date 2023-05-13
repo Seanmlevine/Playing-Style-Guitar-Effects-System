@@ -64,8 +64,12 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
   </tr>
 </table>
 
+<img src='./Results/Result-April-2023-128/confusion_matrix.png' width=500>
 
-<img src='./docs/Levine_7100_Poster-compressed.png' width=250>
+<img src='./Results/Result-April-2023-128/Acc_v_epoch_JohnAll.png' width=500>
+<img src='./Results/Result-April-2023-128/Loss_v_epoch_JohnAll.png' width=500>
+
+<img src='./docs/Levine_7100_Poster-compressed.png' width=500>
 
 
 
