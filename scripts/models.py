@@ -299,7 +299,7 @@ class RnnModel(nn.Module):
 
 if __name__ == '__main__':
     TestModel = CnnModel()
-    from Paras import Para
+    from Paras_nb import Para
     Para.batch_size = 32
     from data_loader import torch_dataset_loader
     test_loader = torch_dataset_loader(Para.LA_TEST_DATA_PATH, Para.batch_size, False, Para.kwargs)
