@@ -65,7 +65,7 @@ Datasets can be created using **Build Dataset Handmade.ipynb** or **Build Datase
 </table>
 
 
-<img src='./docs/Levine_7100_Poster-compressed.pdf' width=250>
+<img src='./docs/Levine_7100_Poster-compressed.png' width=250>
 
 
 
